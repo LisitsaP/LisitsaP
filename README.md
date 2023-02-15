@@ -5,7 +5,7 @@
 <h3>I am a web developer with a passion for front-end technologies</h3>
 <br>
 
-<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="195"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LisitsaP&langs_count=8&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LisitsaP&langs_count=8&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="195"/>
 
 <a href="https://www.linkedin.com/in/polina-lisitsa-7b914723b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
